@@ -4,15 +4,16 @@
   box-sizing: border-box;
  }
  body {
-  background: #00ff73;
-  height: 100vh;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  font-family: Arial, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
- }
+  height: 100vh;
+  margin: 0;
+}
  .login-box {
-  background: #fff;
+  background: #5e7cdd;
   padding: 40px;
   width: 350px;
   border-radius: 25px;
